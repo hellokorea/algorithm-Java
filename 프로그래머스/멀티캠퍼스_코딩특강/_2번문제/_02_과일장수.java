@@ -6,7 +6,7 @@ public class _02_과일장수 {
 
     public static void main(String[] args) {
         int[] socre = { 1, 2, 3, 1, 2, 3, 1 }; // 3, 4
-        int[] score2 = { 4, 1, 2, 2, 4, 4, 4, 4, 1, 2, 4, 2 }; // 4, 3
+        // int[] score2 = { 4, 1, 2, 2, 4, 4, 4, 4, 1, 2, 4, 2 }; // 4, 3
 
         int result = solution(3, 4, socre);
 
