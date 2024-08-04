@@ -1,4 +1,5 @@
 example.txt
 .DS_Store
 sample.java
+*.proSample.java
 .prettierignore

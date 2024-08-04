@@ -7,9 +7,8 @@ import java.util.List;
 
 public class 두개뽑아서더하기_정렬 {
 
-    // [문제링크] https://school.programmers.co.kr/learn/courses/30/lessons/68644
+    // [문제 링크] https://school.programmers.co.kr/learn/courses/30/lessons/68644
 
-    // ㅇㅇ
     public static void main(String[] args) {
         // int[] input = { 2, 1, 3, 4, 1 };
         int[] input2 = { 5, 0, 2, 7 };
