@@ -15,7 +15,16 @@
 <br>
 
 ## 일반 문제
+
+### Level.1
 - [lv1.두개뽑아서 더하기](https://github.com/hellokorea/algorithm-Java/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Levle_1/%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0_%EC%A0%95%EB%A0%AC.java)
+
+- [lv1.모의고사](https://github.com/hellokorea/algorithm-Java/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Levle_1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89.java)
+
+<br>
+
+### Level.2
+- [lv2.행렬의 곱셉](https://github.com/hellokorea/algorithm-Java/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Level_2/%ED%96%89%EB%A0%AC%EC%9D%98%EA%B3%B1%EC%85%89.java)
 
 <br>
 
