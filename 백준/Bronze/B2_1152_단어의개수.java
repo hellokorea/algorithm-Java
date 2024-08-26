@@ -2,7 +2,6 @@ package Bronze;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.StringTokenizer;
 
 public class B2_1152_단어의개수 {
 
