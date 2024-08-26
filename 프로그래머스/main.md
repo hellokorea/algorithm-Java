@@ -21,6 +21,8 @@
 
 - [lv1.모의고사](https://github.com/hellokorea/algorithm-Java/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Levle_1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89.java)
 
+- [lv1.실패율](https://github.com/hellokorea/algorithm-Java/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Levle_1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.java)
+
 <br>
 
 ### Level.2
