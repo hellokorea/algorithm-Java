@@ -28,6 +28,8 @@
 ### Level.2
 - [lv2.행렬의 곱셉](https://github.com/hellokorea/algorithm-Java/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Level_2/%ED%96%89%EB%A0%AC%EC%9D%98%EA%B3%B1%EC%85%89.java)
 
+- [lv2.방문 길이](https://github.com/hellokorea/algorithm-Java/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Level_2/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4.java)
+
 <br>
 
 ## 고득점 Kit
