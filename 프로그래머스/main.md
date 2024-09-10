@@ -30,6 +30,8 @@
 
 - [lv2.방문 길이](https://github.com/hellokorea/algorithm-Java/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Level_2/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4.java)
 
+- [lv2.올바른 괄호](https://github.com/hellokorea/algorithm-Java/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Level_2/%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8.java)
+
 <br>
 
 ## 고득점 Kit
