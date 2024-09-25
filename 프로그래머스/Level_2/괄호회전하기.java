@@ -4,6 +4,8 @@ import java.util.Stack;
 
 public class 괄호회전하기 {
 
+    // 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/76502
+
     public static void main(String[] args) {
         String input1 = "[](){}";
         String input2 = "}]()[{";
