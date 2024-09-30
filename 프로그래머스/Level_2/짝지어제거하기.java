@@ -4,6 +4,8 @@ import java.util.Stack;
 
 public class 짝지어제거하기 {
 
+    // 문제링크 : https://school.programmers.co.kr/learn/courses/30/lessons/12973
+
     public static void main(String[] args) {
         String input = "baabaa";
         String input2 = "cdcd";

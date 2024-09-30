@@ -33,6 +33,8 @@
 - [lv2.올바른 괄호](https://github.com/hellokorea/algorithm-Java/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Level_2/%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8.java)
 
 - [lv2.괄호 회전하기](https://github.com/hellokorea/algorithm-Java/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Level_2/%EA%B4%84%ED%98%B8%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java)
+
+- [lv2. 짝 지어 제거하기](https://github.com/hellokorea/algorithm-Java/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Level_2/%EC%A7%9D%EC%A7%80%EC%96%B4%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.java)
 <br>
 
 ## 고득점 Kit
